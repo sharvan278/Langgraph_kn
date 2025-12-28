@@ -8,3 +8,23 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables (IMPORTANT - contains API keys!)
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# UV lock file (optional - some keep it, some don't)
+# uv.lock
+
+# Python version file
+.python-version
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
